@@ -29,6 +29,7 @@ The simulated infrastructure comprises multiple interconnected Autonomous System
 ## Repository Contents
 
 - **[GNS3 project](project1-0338469.gns3project):** network simulation project.
+- **[Project specification](Project%20specification.pdf):** assignment brief defining the project requirements.
 - **[Detailed configuration guide](Report%20Network%20And%20System%20Defence%20-%20Project%201.pdf):** technical report describing the project, routing configuration, Data Center setup, VPN deployment and security rules.
 
 ## Getting Started
