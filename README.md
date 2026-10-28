@@ -6,6 +6,12 @@ Academic project developed for the *Network and System Defence* course at the Un
 
 The lab combines routing protocols, network virtualization and traffic filtering to model communication across multiple autonomous systems and internal networks.
 
+## Network Topology
+
+The simulated infrastructure comprises multiple interconnected Autonomous Systems and a Data Center network based on the spine-leaf architecture.
+
+![Network topology](topology.png)
+
 ## Key Features
 
 - **Inter-domain and intra-domain routing:** configuration of BGP for routing between Autonomous Systems (ASes) and OSPF for internal routing.
@@ -19,12 +25,6 @@ The lab combines routing protocols, network virtualization and traffic filtering
 ## Technologies
 
 `GNS3` · `Linux` · `FRRouting` · `BGP` · `OSPF` · `MPLS/LDP` · `EVPN/VXLAN` · `VLAN/VRF` · `OpenVPN` · `iptables` · `AppArmor`
-
-## Network Topology
-
-The simulated infrastructure comprises multiple interconnected Autonomous Systems and a Data Center network based on the spine-leaf architecture.
-
-![Network topology](topology.png)
 
 ## Repository Contents
 
