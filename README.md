@@ -24,7 +24,7 @@ The lab combines routing protocols, network virtualization and traffic filtering
 
 The simulated infrastructure comprises multiple interconnected Autonomous Systems and a Data Center network based on the spine-leaf architecture.
 
-![Network topology](NetworkSystemDefense-main/img/topologia_address.jpeg)
+![Network topology](topology.png)
 
 ## Repository Contents
 
